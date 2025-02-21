@@ -2,7 +2,6 @@
 Este repositório é para aula de P.I.
 
 
-Teste 123 
+Alteração feita no repositório local
 
-teste 123
-
+Alteração feita no repositório remoto
